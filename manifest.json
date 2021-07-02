@@ -1,7 +1,7 @@
 {
     "name": "sito_nunzio_mancini",
     "short_name": "sito_nunzio_mancini",
-    "start_url": ".",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
